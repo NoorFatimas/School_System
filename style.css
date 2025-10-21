@@ -1,0 +1,213 @@
+body {
+    background-color: #f9fff9;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #2e8b57 !important;
+}
+
+.navbar-brand i {
+    margin-right: 5px;
+}
+
+.hero-img {
+    height: 490px;
+    object-fit: cover;
+}
+
+.welcome-section {
+    background-color: #ffffff;
+    padding: 60px 20px;
+}
+
+.welcome-section h2 {
+    color: #2e8b57;
+    font-weight: 700;
+}
+
+.welcome-section p {
+    color: #333;
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+
+/* Footer */
+
+footer {
+    background-color: #a8e6cf;
+}
+
+footer p,
+footer a {
+    color: #2e8b57;
+}
+
+footer a:hover {
+    color: #145a32;
+}
+
+.admission-section {
+    background-color: #f9fff9;
+}
+
+.admission-form {
+    background-color: #ffffff;
+    border: 2px solid #a8e6cf;
+    transition: 0.3s ease;
+}
+
+.admission-form:hover {
+    box-shadow: 0 0 15px rgba(46, 139, 87, 0.2);
+}
+
+.admission-form .form-label {
+    color: #2e8b57;
+}
+
+.admission-form .form-control,
+.admission-form .form-select {
+    border: 1px solid #a8e6cf;
+    box-shadow: none;
+}
+
+.admission-form .form-control:focus,
+.admission-form .form-select:focus {
+    border-color: #2e8b57;
+    box-shadow: 0 0 5px rgba(46, 139, 87, 0.3);
+}
+
+.btn-success {
+    background-color: #2e8b57 !important;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #257a46 !important;
+}
+
+body {
+    background-color: #f7fff9;
+    font-family: "Poppins", sans-serif;
+}
+
+.faculty-section {
+    padding-top: 120px;
+}
+
+.teacher-card {
+    border: none;
+    border-radius: 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: #ffffff;
+}
+
+.teacher-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 6px 15px rgba(0, 128, 0, 0.2);
+}
+
+.teacher-card img {
+    height: 250px;
+    object-fit: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+footer {
+    margin-top: 60px;
+}
+
+body {
+    background-color: #f7fff9;
+    font-family: "Poppins", sans-serif;
+}
+
+.vision-section {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #eafff3, #ffffff);
+    padding-top: 120px;
+    padding-bottom: 60px;
+}
+
+.vision-img {
+    border-radius: 20px;
+    transition: transform 0.4s ease, box-shadow 0.3s ease;
+}
+
+.vision-img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(60, 179, 113, 0.3);
+}
+
+.mission-section {
+    background-color: #e8fff0;
+    padding: 80px 0;
+}
+
+.mission-card {
+    border: none;
+    border-radius: 15px;
+    background-color: #ffffff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.mission-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(46, 139, 87, 0.2);
+}
+
+h2 {
+    font-weight: 700;
+}
+
+body {
+    background-color: #f9fff9;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-section {
+    background: linear-gradient(to right, #e4fbe4, #fafffa);
+    border-bottom: 3px solid #347434;
+}
+
+.subjects-table {
+    background-color: #2e8b57;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 6px 25px rgba(0, 128, 0, 0.15);
+}
+
+.subjects-table th {
+    font-size: 18px;
+    background-color: #b2e6b2 !important;
+    color: #145214 !important;
+}
+
+.subjects-table td {
+    font-size: 16px;
+    color: #333;
+}
+
+.subjects-table tr:hover {
+    background-color: #eafbea;
+    transition: 0.3s ease;
+}
+
+footer {
+    background-color: #ecfcec;
+    border-top: 2px solid #b2e6b2;
+}
